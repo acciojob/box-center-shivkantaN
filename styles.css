@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.container{
+	display:flex;
+	position:absolute;
+	justify-content:center;
+	align-items:center;
+	margin:150px;
+	border : 2px solid black;
+}
+.item{
+	background-color:lightblue;
+	padding:50px;
+	color:purple;
+}
+}
